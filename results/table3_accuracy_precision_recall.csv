@@ -1,0 +1,4 @@
+Classifier,Accuracy,Precision,Recall
+SVM,91.24%,91.21%,91.24%
+Logistic Regression,92.45%,92.42%,92.46%
+Naive Bayes,87.21%,87.20%,87.21%

@@ -1,0 +1,5 @@
+Tool,Dataset,Running Time (minutes)
+Weka Library (paper-reported),Abstracts,138.0
+TagHelper Tools (paper-reported),Abstracts,201.0
+SparkText / Spark cluster (paper-reported),Abstracts,3.0
+Your Python/scikit-learn Framework (measured),Abstracts,0.92

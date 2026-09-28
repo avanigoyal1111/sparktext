@@ -1,0 +1,7 @@
+Classifier,Regularization Parameter,Accuracy
+SVM,L2 (Default),91.24%
+SVM,L1,93.07%
+SVM,None,91.14%
+Logistic Regression,L2 (Default),92.45%
+Logistic Regression,L1,93.82%
+Logistic Regression,None,90.39%
