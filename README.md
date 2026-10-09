@@ -1,6 +1,4 @@
-# SparkText Replication: Cancer Type Classification from PubMed Abstracts
-
-A from-scratch replication of the machine learning experiments in:
+# SparkText: Cancer Type Classification from PubMed Abstracts
 
 > Ye Z, Tafti AP, He KY, Wang K, He MM (2016). *SparkText: Biomedical Text Mining on Big Data Framework.* PLOS ONE 11(9): e0162721. https://doi.org/10.1371/journal.pone.0162721
 
