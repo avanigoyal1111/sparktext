@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-pipeline-orange)
 ![Status](https://img.shields.io/badge/status-replication%20complete-brightgreen)
 
-A single-machine scikit-learn reproduction of the text-classification experiments in:
+A single-machine scikit-learn re-experiment of the text-classification experiments in:
 
 > Ye Z, Tafti AP, He KY, Wang K, He MM (2016). *SparkText: Biomedical Text Mining on Big Data Framework.* PLOS ONE 11(9): e0162721. https://doi.org/10.1371/journal.pone.0162721
 
