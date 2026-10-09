@@ -1,4 +1,4 @@
-# SparkText Replication: Cancer Type Classification from PubMed Abstracts
+# SparkText : Cancer Type Classification from PubMed Abstracts
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-pipeline-orange)
